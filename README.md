@@ -1,4 +1,4 @@
-<h1 align="center">Noting Yet 🐦‍🔥</h1>
+<h1 align="center">Noting Yet</h1>
 
 
 
