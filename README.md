@@ -9,7 +9,8 @@
 
 
 ##
-**Comp-Sci student**. Interested in: <br><br>
+### Comp-Sci student. 
+Interested in: <br>
 -> Theoretical Computer Science<br>
 -> Systems / Backend Development<br>
 -> Deep Reinforcement Learning<br>
