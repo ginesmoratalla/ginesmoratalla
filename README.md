@@ -13,7 +13,7 @@
 Interested in: <br>
 -> Theoretical Computer Science<br>
 -> Systems / Backend Development<br>
--> Deep Reinforcement Learning<br>
+-> Reinforcement Learning<br>
 
 
 <!--
