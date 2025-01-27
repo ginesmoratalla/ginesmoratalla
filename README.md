@@ -17,8 +17,8 @@
 ##
 ### Comp-Sci student. 
 Interested in: <br>
--> Systems / Backend Development<br>
--> Reinforcement Learning<br>
+&rarr; Systems / Backend Development<br>
+&rarr; Reinforcement Learning<br>
 
 
 <!--
