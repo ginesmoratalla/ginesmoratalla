@@ -22,7 +22,7 @@
 
 
 ##
-### Comp-Sci student. 
+### Computer science student. 
 Interested in: <br>
 &rarr; Systems / Backend Development<br>
 &rarr; Reinforcement Learning<br>
