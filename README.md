@@ -25,7 +25,7 @@
 ### Computer science student. 
 Interested in: <br>
 &rarr; Systems / Backend Development<br>
-&rarr; Reinforcement Learning<br>
+&rarr; Deep Learning<br>
 
 
 <!--
