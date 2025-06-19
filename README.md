@@ -15,7 +15,7 @@
 -->
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/df63d58c-6743-44da-8b2f-628a97c5e1f5" alt="demo" width="900" height="450"/>
+  <img src="https://github.com/user-attachments/assets/df63d58c-6743-44da-8b2f-628a97c5e1f5" alt="demo" width="700" height="400"/>
 </div>
 
 ##
