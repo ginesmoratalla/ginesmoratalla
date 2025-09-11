@@ -18,9 +18,6 @@
   <img src="https://github.com/user-attachments/assets/0ce75af1-ccb3-4d65-8ea9-cadc39172b46" alt="demo" width="900" height="300"/>
 </div>
 
-##
-### Computer science student. 
-
 
 <!--
 **ginesmoratalla/ginesmoratalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
