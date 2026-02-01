@@ -15,9 +15,8 @@
 -->
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b45194c6-6233-405a-8153-1faf6646ad04" alt="demo" width="900" height="350"/>
+  <img src="https://github.com/user-attachments/assets/7e18f63f-5d17-4e68-8ea0-916e31bc0f34" alt="demo" width="900" height="500"/>
 </div>
-
 
 <!--
 **ginesmoratalla/ginesmoratalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
